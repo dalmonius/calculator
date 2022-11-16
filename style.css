@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+.box1{
+    background-color: grey;
+    width: 115px;
+    height: 190px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.display{
+    width: 100px;
+}
